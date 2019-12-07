@@ -2,7 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://evgeniysss.github.io/goit-react-hw-04-movies",
+  "homepage": "https://evgeniysss.github.io/goit-react-hw-04-movies/",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
