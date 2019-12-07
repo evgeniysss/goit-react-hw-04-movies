@@ -1,0 +1,27 @@
+.activeLink {
+  color: red;
+  text-decoration: none;
+}
+.navDescriptionList {
+  width: 900px;
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+  list-style: none;
+  vertical-align: middle;
+}
+.navDescriptionList li {
+  padding: 10px;
+}
+.navDescriptionList p,
+h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.navDetailsList {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
